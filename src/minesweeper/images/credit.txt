@@ -1,0 +1,15 @@
+https://www.spriters-resource.com/:
+    HD - https://www.spriters-resource.com/custom_edited/minesweepercustoms/sheet/180218/
+    GameBoy - https://www.spriters-resource.com/custom_edited/minesweepercustoms/sheet/192865/
+    Shine - https://www.spriters-resource.com/custom_edited/minesweepercustoms/sheet/139692/
+
+
+http://www.curtisbright.com/msx/:
+    Win XP (Default) - http://www.curtisbright.com/msx/skins/winxpskin.bmp
+    Win 98 - http://www.curtisbright.com/msx/skins/win98skin.bmp
+    Win Vista - http://www.curtisbright.com/msx/skins/vistaskin.bmp
+    Mario - http://www.curtisbright.com/msx/skins/marioskin.bmp
+    Icicle - http://www.curtisbright.com/msx/skins/icicleskin.bmp
+    Crayon - http://www.curtisbright.com/msx/skins/unknownskin.bmp
+
+Doodle - I forgot
