@@ -12,4 +12,4 @@ http://www.curtisbright.com/msx/:
     Icicle - http://www.curtisbright.com/msx/skins/icicleskin.bmp
     Crayon - http://www.curtisbright.com/msx/skins/unknownskin.bmp
 
-Doodle - I forgot
+Doodle - Custom made
